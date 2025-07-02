@@ -1,2 +1,5 @@
 \contentsline {chapter}{\numberline {1}Vowels}{1}{chapter.1}%
-\contentsline {section}{\numberline {1.1}"Ah" sound {\fontencoding {T3}\selectfont /A/}}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.1}"Nacho" sound {\fontencoding {T3}\selectfont /\textturnv /}}{1}{section.1.1}%
+\contentsline {section}{\numberline {1.2}"Ah" sound {\fontencoding {T3}\selectfont /A/}}{3}{section.1.2}%
+\contentsline {section}{\numberline {1.3}"Pretzel" sound {\fontencoding {T3}\selectfont /}{\ae }/}{5}{section.1.3}%
+\contentsline {section}{\numberline {1.4}"EH" sound as in "bet" {\fontencoding {T3}\selectfont /e/}}{7}{section.1.4}%

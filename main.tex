@@ -1,17 +1,21 @@
-\documentclass[12pt]{book}
-
+\documentclass[12pt,oneside]{book}
+% article or report can also be used
 % Packages
 \usepackage{tipa}         
 \usepackage{booktabs}      % For better tables
 \usepackage{geometry}      % For page layout
 \usepackage{hyperref}
 \usepackage[most]{tcolorbox}
-\usepackage{xcolor}
+\usepackage[x11names,table]{xcolor}
 \usepackage{graphicx}
+\usepackage{longtable, multirow, booktabs}
+\usepackage{textcomp}
+
 
 % Define custom colors
 \definecolor{oceanblue}{RGB}{200, 230, 255}
 \definecolor{myyellow}{RGB}{255, 165, 20}
+\definecolor{fancyorange}{RGB}{255, 102, 0}  % bright warm orange
 
 % Define AH color macro
 \newcommand{\ah}[1]{\textcolor{myyellow}{#1}}
@@ -32,64 +36,10 @@
 \mainmatter
 
 \chapter{Vowels}
-\section{"Ah" sound \textipa{/A/}}
-\begin{center}
-\includegraphics[width=0.9\textwidth]{images/image5.png}
-\end{center}
-\href{https://drive.google.com/file/d/18IaOVK4CQk8SdvJZuLdmHg19YmEYxoLD/view?usp=drive_link}{Click here to listen}
+\input{phonemes/nacho_sound/content.tex}
+\input{phonemes/ah_sound/content.tex}
+\input{phonemes/pretzel_sound/content.tex}
+\input{phonemes/e_sound/content.tex}
 
-\begin{tabular}{ll}
-  \textbf{Word} & \textbf{IPA} \\
-  \hline
-  H\textbf{o}t        & \textipa{/h\textscripta t/} \\
-  C\textbf{o}p        & \textipa{/k\textscripta p/} \\
-  G\textbf{o}t        & \textipa{/g\textscripta t/} \\
-  B\textbf{o}ss       & \textipa{/b\textscripta s/} \\
-  T\textbf{o}p        & \textipa{/t\textscripta p/} \\
-  W\textbf{a}nt       & \textipa{/w\textscripta nt/} \\
-  B\textbf{o}x        & \textipa{/b\textscripta ks/} \\
-  W\textbf{a}sh       & \textipa{/w\textscripta \textesh/} \\
-  B\textbf{o}b        & \textipa{/b\textscripta b/} \\
-  B\textbf{o}ttle     & \textipa{/\textprimstress b\textscripta t\textschwa l/} \\
-  C\textbf{a}lm       & \textipa{/k\textscripta m/} \\
-  C\textbf{o}ncert    & \textipa{/\textprimstress k\textscripta ns\textrhookschwa t/} \\
-  Cl\textbf{o}ck      & \textipa{/kl\textscripta k/} \\
-  F\textbf{o}llow     & \textipa{/\textprimstress f\textscripta lo\textupsilon/} \\
-  D\textbf{o}llar     & \textipa{/\textprimstress d\textscripta l\textrhookschwa/} \\
-  Dr\textbf{o}p       & \textipa{/dr\textscripta p/} \\
-  J\textbf{o}b        & \textipa{/d\textdyoghlig\textscripta b/} \\
-  \textbf{O}pportunity& \textipa{/\textprimstress \textscripta p\textschwa tjun\textschwa ti/} \\
-  J\textbf{o}hn       & \textipa{/d\textdyoghlig\textscripta n/} \\
-  N\textbf{o}t        & \textipa{/n\textscripta t/} \\
-  D\textbf{o}cument   & \textipa{/\textprimstress d\textscripta kj\textschwa m\textschwa nt/} \\
-  D\textbf{o}ctor     & \textipa{/\textprimstress d\textscripta kt\textrhookschwa/} \\
-  St\textbf{o}p       & \textipa{/st\textscripta p/} \\
-  P\textbf{o}ssible   & \textipa{/\textprimstress p\textscripta s\textschwa b\textschwa l/} \\
-  Pr\textbf{o}blem    & \textipa{/\textprimstress pr\textscripta bl\textschwa m/} \\
-  B\textbf{o}dy       & \textipa{/\textprimstress b\textscripta di/} \\
-  L\textbf{o}ck       & \textipa{/l\textscripta k/} \\
-  \textbf{O}ption     & \textipa{/\textprimstress \textscripta p\textesh \textschwa n/} \\
-  H\textbf{o}nest     & \textipa{/\textprimstress \textscripta n\textschwa st/} \\
-  T\textbf{o}pic      & \textipa{/\textprimstress t\textscripta p\textschwa k/} \\
-  Pr\textbf{o}duct    & \textipa{/\textprimstress pr\textscripta d\textturnv kt/} \\
-  P\textbf{o}cket     & \textipa{/\textprimstress p\textscripta k\textschwa t/} \\
-  \end{tabular}
-  
-  \begin{itemize}
-    \item I don't want to go out it's too \textbf{h\ah{o}t} outside.
-    \item \textbf{J\ah{o}hn g\ah{o}t} a new \textbf{j\ah{o}b}, so now he works as a \textbf{c\ah{o}p}.
-    \item That's \textbf{n\ah{o}t} a \textbf{pr\ah{o}blem} at all.
-    \item \textbf{\ah{O}scar}, can you put the paper in a box and leave it outside?
-    \item I just bought an \textbf{\ah{a}partment} and I have all the \textbf{d\ah{o}cuments}.
-    \item Should I be in class today? Or should I go to the \textbf{d\ah{o}ctor}?
-    \item Can you \textbf{st\ah{o}p} making all that noise?
-    \item Is it \textbf{p\ah{o}ssible} to get this done today?
-    \item I'm sorry, but that's \textbf{n\ah{o}t} an \textbf{\ah{o}ption}.
-    \item Could you \textbf{dr\ah{o}p} Andy at Anna's house?
-    \item \textbf{B\ah{o}b} is the new \textbf{b\ah{o}ss} and he has a lot of \textbf{pr\ah{o}blems} to fix at the \textbf{\ah{o}ffice}.
-    \item The customer says he got an incorrect \textbf{pr\ah{o}duct}. What should I do?
-    \item I'm not awake enough to pay attention to this \textbf{t\ah{o}pic} today.
-    \item I'm going to be \textbf{h\ah{o}nest}; I took few \textbf{d\ah{o}llars} you had in your \textbf{p\ah{o}cket}.
-    \item Make sure you \textbf{f\ah{o}llow} the \textbf{pr\ah{o}cess} correctly this time.
-  \end{itemize}
 \end{document}
+
