@@ -5,9 +5,17 @@
 \contentsline {section}{\numberline {1.4}"EH" sound as in "bet" {\fontencoding {T3}\selectfont /e/}}{7}{section.1.4}%
 \contentsline {section}{\numberline {1.5}"AW" sound as in "thought" {\fontencoding {T3}\selectfont /\textopeno /}}{9}{section.1.5}%
 \contentsline {section}{\numberline {1.6}"UH" sound as in "book" {\fontencoding {T3}\selectfont / \textupsilon /}}{11}{section.1.6}%
-\contentsline {chapter}{\numberline {2}Consonants}{13}{chapter.2}%
-\contentsline {section}{\numberline {2.1}"TH" sound {\fontencoding {T3}\selectfont /ð/} (as in \textit {that}, \textit {those}, \textit {they})}{13}{section.2.1}%
-\contentsline {section}{\numberline {2.2}"SH" sound {\fontencoding {T3}\selectfont /\textesh /}}{15}{section.2.2}%
-\contentsline {section}{\numberline {2.3}"ZH" Sound ({\fontencoding {T3}\selectfont /\textyogh /})}{17}{section.2.3}%
-\contentsline {chapter}{\numberline {3}Annexes}{19}{chapter.3}%
-\contentsline {section}{\numberline {3.1}}{20}{section.3.1}%
+\contentsline {section}{\numberline {1.7}"Long U" sound as in "usually" {\fontencoding {T3}\selectfont /ju/}}{13}{section.1.7}%
+\contentsline {section}{\numberline {1.8}"ER" sound as in "girl", "first", "bird" {\fontencoding {T3}\selectfont /\textschwa \textturnr }/}{15}{section.1.8}%
+\contentsline {section}{\numberline {1.9}"IH" sound as in "it" {\fontencoding {T3}\selectfont \textsci }}{17}{section.1.9}%
+\contentsline {chapter}{\numberline {2}Consonants}{19}{chapter.2}%
+\contentsline {section}{\numberline {2.1}"TH" sound {\fontencoding {T3}\selectfont /T/}}{19}{section.2.1}%
+\contentsline {section}{\numberline {2.2}"TH" sound {\fontencoding {T3}\selectfont /ð/} (as in \textit {that}, \textit {those}, \textit {they})}{21}{section.2.2}%
+\contentsline {section}{\numberline {2.3}"SH" sound {\fontencoding {T3}\selectfont /\textesh /}}{23}{section.2.3}%
+\contentsline {section}{\numberline {2.4}"ZH" Sound ({\fontencoding {T3}\selectfont /\textyogh /})}{25}{section.2.4}%
+\contentsline {section}{\numberline {2.5}"CH" sound as in "chair" {\fontencoding {T3}\selectfont /t\textesh /}}{27}{section.2.5}%
+\contentsline {section}{\numberline {2.6}"J" sound as in "Job" {\fontencoding {T3}\selectfont [d\textyogh ]}}{30}{section.2.6}%
+\contentsline {section}{\numberline {2.7}Final "-age" sound as in "package", "message" {\fontencoding {T3}\selectfont \textsci d\textyogh }}{32}{section.2.7}%
+\contentsline {section}{\numberline {2.8}"V" sound as in "very" {\fontencoding {T3}\selectfont /v/}}{34}{section.2.8}%
+\contentsline {chapter}{\numberline {3}Annexes}{36}{chapter.3}%
+\contentsline {section}{\numberline {3.1}}{37}{section.3.1}%

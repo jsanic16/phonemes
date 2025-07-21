@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.3.18)  6 JUL 2025 00:36
+This is pdfTeX, Version 3.141592653-2.6-1.40.25 (TeX Live 2023/Debian) (preloaded format=pdflatex 2025.3.18)  17 JUL 2025 06:06
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -713,7 +713,7 @@ Package: inputenc 2021/02/14 v1.3d Input encoding file
 ]
 Chapter 1.
 (./phonemes/vowels/nacho_sound/content.tex
-<images/nacho_portrait.png, id=123, 816.04875pt x 425.59pt>
+<images/nacho_portrait.png, id=163, 816.04875pt x 425.59pt>
 File: images/nacho_portrait.png Graphic file (type png)
 <use images/nacho_portrait.png>
 Package pdftex.def Info: images/nacho_portrait.png  used on input line 3.
@@ -727,25 +727,25 @@ l.26 \end{longtable}
 
 
  <./images/nacho_portrait.png>] [2{/usr/share/texmf/fonts/enc/dvips/cm-super/cm-super-ts1.enc}]) (./phonemes/vowels/ah_sound/content.tex
-<images/image5.png, id=138, 640.3925pt x 330.23375pt>
+<images/image5.png, id=178, 640.3925pt x 330.23375pt>
 File: images/image5.png Graphic file (type png)
 <use images/image5.png>
 Package pdftex.def Info: images/image5.png  used on input line 3.
 (pdftex.def)             Requested size: 469.75502pt x 242.24269pt.
  [3 <./images/image5.png>] [4]) (./phonemes/vowels/pretzel_sound/content.tex
-<images/pretzel_portrait.png, id=150, 879.285pt x 507.8975pt>
+<images/pretzel_portrait.png, id=191, 879.285pt x 507.8975pt>
 File: images/pretzel_portrait.png Graphic file (type png)
 <use images/pretzel_portrait.png>
 Package pdftex.def Info: images/pretzel_portrait.png  used on input line 3.
 (pdftex.def)             Requested size: 469.75502pt x 271.33887pt.
  [5 <./images/pretzel_portrait.png>] [6]) (./phonemes/vowels/e_sound/content.tex
-<images/eh_portrait.png, id=163, 815.045pt x 403.5075pt>
+<images/eh_portrait.png, id=204, 815.045pt x 403.5075pt>
 File: images/eh_portrait.png Graphic file (type png)
 <use images/eh_portrait.png>
 Package pdftex.def Info: images/eh_portrait.png  used on input line 3.
 (pdftex.def)             Requested size: 469.75502pt x 232.56299pt.
  [7 <./images/eh_portrait.png>] [8]) (./phonemes/vowels/sad_face_sound/content.tex
-<images/sad_face_portrait.png, id=175, 481.8pt x 271.0125pt>
+<images/sad_face_portrait.png, id=216, 481.8pt x 271.0125pt>
 File: images/sad_face_portrait.png Graphic file (type png)
 <use images/sad_face_portrait.png>
 Package pdftex.def Info: images/sad_face_portrait.png  used on input line 3.
@@ -755,26 +755,45 @@ Package pdftex.def Info: images/sad_face_portrait.png  used on input line 3.
 Package hyperref Warning: Glyph not defined in PU encoding,
 (hyperref)                removing `\textupsilon' on input line 1.
 
-<images/horseshoe_portrait.png, id=187, 839.135pt x 407.5225pt>
+<images/horseshoe_portrait.png, id=227, 839.135pt x 407.5225pt>
 File: images/horseshoe_portrait.png Graphic file (type png)
 <use images/horseshoe_portrait.png>
 Package pdftex.def Info: images/horseshoe_portrait.png  used on input line 3.
 (pdftex.def)             Requested size: 469.75502pt x 228.13641pt.
-[11 <./images/horseshoe_portrait.png>] [12])
+[11 <./images/horseshoe_portrait.png>] [12]) (./phonemes/vowels/u_sound/content.tex
+<images/long_u_portrait.png, id=240, 343.2825pt x 354.32375pt>
+File: images/long_u_portrait.png Graphic file (type png)
+<use images/long_u_portrait.png>
+Package pdftex.def Info: images/long_u_portrait.png  used on input line 3.
+(pdftex.def)             Requested size: 469.75502pt x 484.86372pt.
+ [13 <./images/long_u_portrait.png>] [14]) (./phonemes/vowels/er_sound/content.tex
+<images/er_portrait.png, id=252, 790.955pt x 496.85625pt>
+File: images/er_portrait.png Graphic file (type png)
+<use images/er_portrait.png>
+Package pdftex.def Info: images/er_portrait.png  used on input line 3.
+(pdftex.def)             Requested size: 469.75502pt x 295.09106pt.
+ [15 <./images/er_portrait.png>] [16]) (./phonemes/vowels/american_i_sound/content.tex
+<images/american_i_portrait.png, id=264, 869.2475pt x 495.8525pt>
+File: images/american_i_portrait.png Graphic file (type png)
+<use images/american_i_portrait.png>
+Package pdftex.def Info: images/american_i_portrait.png  used on input line 3.
+(pdftex.def)             Requested size: 469.75502pt x 267.96822pt.
+ [17 <./images/american_i_portrait.png>] [18])
 Chapter 2.
-(./phonemes/consonants/voiced_th_sound/content.tex
-<images/voiced_th_portrait.png, id=200, 794.97pt x 439.6425pt>
+(./phonemes/consonants/voiceless_th_sound/content.tex
+<images/voiceless_th_portrait.png, id=277, 828.09375pt x 503.8825pt>
+File: images/voiceless_th_portrait.png Graphic file (type png)
+<use images/voiceless_th_portrait.png>
+Package pdftex.def Info: images/voiceless_th_portrait.png  used on input line 3.
+(pdftex.def)             Requested size: 469.75502pt x 285.84743pt.
+ [19
+
+ <./images/voiceless_th_portrait.png>] [20]) (./phonemes/consonants/voiced_th_sound/content.tex
+<images/voiced_th_portrait.png, id=304, 794.97pt x 439.6425pt>
 File: images/voiced_th_portrait.png Graphic file (type png)
 <use images/voiced_th_portrait.png>
 Package pdftex.def Info: images/voiced_th_portrait.png  used on input line 3.
 (pdftex.def)             Requested size: 469.75502pt x 259.79604pt.
- [13
-
- <./images/voiced_th_portrait.png>]
-Underfull \hbox (badness 10000) in paragraph at lines 25--46
-
- []
-
 
 Underfull \hbox (badness 10000) in paragraph at lines 25--46
 
@@ -790,19 +809,48 @@ Underfull \hbox (badness 10000) in paragraph at lines 25--46
 
  []
 
-[14]) (./phonemes/consonants/sh_sound/content.tex
-<images/sh_portrait.png, id=213, 875.27pt x 492.84125pt>
+
+Underfull \hbox (badness 10000) in paragraph at lines 25--46
+
+ []
+
+[21 <./images/voiced_th_portrait.png>] [22]) (./phonemes/consonants/sh_sound/content.tex
+<images/sh_portrait.png, id=317, 875.27pt x 492.84125pt>
 File: images/sh_portrait.png Graphic file (type png)
 <use images/sh_portrait.png>
 Package pdftex.def Info: images/sh_portrait.png  used on input line 3.
 (pdftex.def)             Requested size: 469.75502pt x 264.50595pt.
- [15 <./images/sh_portrait.png>] [16]) (./phonemes/consonants/zh_sound/content.tex
-<images/zh_portraint.png, id=225, 859.21pt x 381.425pt>
+ [23 <./images/sh_portrait.png>] [24]) (./phonemes/consonants/zh_sound/content.tex
+<images/zh_portraint.png, id=331, 859.21pt x 381.425pt>
 File: images/zh_portraint.png Graphic file (type png)
 <use images/zh_portraint.png>
 Package pdftex.def Info: images/zh_portraint.png  used on input line 5.
 (pdftex.def)             Requested size: 469.75502pt x 208.5389pt.
- [17 <./images/zh_portraint.png>] [18])
+ [25 <./images/zh_portraint.png>] [26]) (./phonemes/consonants/ch_sound/content.tex
+<images/ch_portrait.png, id=360, 828.09375pt x 503.8825pt>
+File: images/ch_portrait.png Graphic file (type png)
+<use images/ch_portrait.png>
+Package pdftex.def Info: images/ch_portrait.png  used on input line 3.
+(pdftex.def)             Requested size: 469.75502pt x 285.84743pt.
+ [27 <./images/ch_portrait.png>] [28] [29]) (./phonemes/consonants/j_sound/content.tex
+<images/j_portrait.png, id=377, 833.1125pt x 501.875pt>
+File: images/j_portrait.png Graphic file (type png)
+<use images/j_portrait.png>
+Package pdftex.def Info: images/j_portrait.png  used on input line 5.
+(pdftex.def)             Requested size: 469.75502pt x 282.98555pt.
+ [30 <./images/j_portrait.png>] [31]) (./phonemes/consonants/ihj_sound/content.tex
+<images/ihj_portraint.png, id=404, 876.27374pt x 478.78876pt>
+File: images/ihj_portraint.png Graphic file (type png)
+<use images/ihj_portraint.png>
+Package pdftex.def Info: images/ihj_portraint.png  used on input line 5.
+(pdftex.def)             Requested size: 469.75502pt x 256.67181pt.
+ [32 <./images/ihj_portraint.png>] [33]) (./phonemes/consonants/v_sound/content.tex
+<images/v_portrait.png, id=426, 882.29625pt x 487.8225pt>
+File: images/v_portrait.png Graphic file (type png)
+<use images/v_portrait.png>
+Package pdftex.def Info: images/v_portrait.png  used on input line 5.
+(pdftex.def)             Requested size: 469.75502pt x 259.72821pt.
+ [34 <./images/v_portrait.png>] [35])
 Chapter 3.
 (./annexes/content.tex
 LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 5.
@@ -821,32 +869,32 @@ Underfull \hbox (badness 10000) in paragraph at lines 55--56
 []|\OT1/cmtt/m/n/12 textopeno
  []
 
-) [19
+) [36
 
 ]
 Overfull \vbox (233.05261pt too high) has occurred while \output is active []
 
- [20] (./main.aux)
+ [37] (./main.aux)
  ***********
 LaTeX2e <2023-11-01> patch level 1
 L3 programming layer <2024-01-22>
  ***********
 Package rerunfilecheck Info: File `main.out' has not changed.
-(rerunfilecheck)             Checksum: 2E8F1D2C7BFA954ABE964DDBD0D1936B;1924.
+(rerunfilecheck)             Checksum: D7FCDAE43C13CBA41B7AAA84C3C642D0;3746.
  ) 
 Here is how much of TeX's memory you used:
- 28458 strings out of 474222
- 567554 string characters out of 5748733
+ 28667 strings out of 474222
+ 572217 string characters out of 5748733
  1948975 words of memory out of 5000000
- 50165 multiletter control sequences out of 15000+600000
+ 50261 multiletter control sequences out of 15000+600000
  567699 words of font info for 68 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  101i,9n,107p,486b,534s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbsy10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmbxti10.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmr17.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmsl12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/share/texlive/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb></usr/share/texmf/fonts/type1/public/cm-super/sfrm1200.pfb></usr/share/texmf/fonts/type1/fkr/tipa/tipa12.pfb></usr/share/texmf/fonts/type1/fkr/tipa/tipabx12.pfb>
-Output written on main.pdf (22 pages, 2413475 bytes).
+Output written on main.pdf (39 pages, 4476748 bytes).
 PDF statistics:
- 330 PDF objects out of 1000 (max. 8388607)
- 240 compressed objects within 3 object streams
- 62 named destinations out of 1000 (max. 500000)
- 306 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 551 PDF objects out of 1000 (max. 8388607)
+ 426 compressed objects within 5 object streams
+ 151 named destinations out of 1000 (max. 500000)
+ 410 words of extra memory for PDF output out of 10000 (max. 10000000)
 
